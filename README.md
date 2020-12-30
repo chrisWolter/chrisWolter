@@ -16,6 +16,8 @@ and a little bit of
 * Flutter
 * Java
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisWolter)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My stats:
 [![Chris github stats](https://github-readme-stats.vercel.app/api?username=chrisWolter)](https://github.com/anuraghazra/github-readme-stats)
 <!--
