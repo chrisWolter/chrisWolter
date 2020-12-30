@@ -7,7 +7,7 @@
 * [Hab ich Saufi gehört?](https://github.com/chrisWolter/saufi-website)
 * [Spotify Playlist Merge Tool](https://github.com/chrisWolter/spotify-playlist-sync)
 
-## 💬 I'm speaking
+## 💬 My Languages:
 * HTML
 * CSS
 * Javascript
