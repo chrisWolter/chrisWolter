@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Chris
 I'm a front-end developer from Germany. Currently doing my bachelors in international media and computing. Besides coding I do photography or just travel the world.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_chriswolter/)
-[![Website](https://img.shields.io/badge/my-website-orange)](https://chris-wolter.de)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chriswolter/)
+[![Website](https://img.shields.io/badge/my_website-orange)](https://chris-wolter.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolter-christian/)
 
 ## 🔭 I’m currently working on:
@@ -10,15 +10,15 @@ I'm a front-end developer from Germany. Currently doing my bachelors in internat
 * XR-Interaktions - a prototyp on how to visualize physical interactions with a model in a XR/AR environment
 
 ## 💬 I’m speaking:
-* HTML
-* CSS
-* Javascript
-* Vue
-* Angular
+[HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+[Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 and a little bit of
-* React
-* Java
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=chrisWolter&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
