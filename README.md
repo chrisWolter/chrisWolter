@@ -2,10 +2,12 @@
 I'm a front-end developer from Germany. Currently doing my bachelors in international media and computing. Besides coding I do photography or just travel the world.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_chriswolter/)
+[![Website](https://img.shields.io/badge/my-website-orange)](https://chris-wolter.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolter-christian/)
 
 ## 🔭 I’m currently working on:
 * Galleryhub - a online gallery for photographers
-* XR-Interaktions - A prototyp on how to display physical interactions in a XR/AR environment
+* XR-Interaktions - a prototyp on how to visualize physical interactions with a model in a XR/AR environment
 
 ## 💬 I’m speaking:
 * HTML
