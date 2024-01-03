@@ -2,7 +2,7 @@
 I'm a front-end developer from Germany. Currently doing my bachelors in international media and computing. Besides coding I do photography or just travel the world.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chriswolter/)
-[![Website](https://img.shields.io/badge/my_website-orange)](https://chris-wolter.de)
+[![Website](https://img.shields.io/badge/my_website-orange?style=for-the-badge)](https://chris-wolter.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolter-christian/)
 
 ## 🔭 I’m currently working on:
